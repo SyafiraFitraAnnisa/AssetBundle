@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2018922055
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: simpel.dlc
+      Dependencies: {}
+    Info_1:
+      Name: tangga.dlc
+      Dependencies: {}

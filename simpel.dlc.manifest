@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 3835180409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 947f813ea39503ed57b527df6c1c014d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/kubus.unity
+- Assets/Scenes/bola.unity
+Dependencies: []
