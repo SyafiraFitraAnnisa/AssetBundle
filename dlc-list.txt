@@ -1,2 +1,2 @@
 simpel<url>https://github.com/SyafiraFitraAnnisa/AssetBundle/raw/master/simpel.dlc
-tangga<url>https://github.com/SyafiraFitraAnnisa/AssetBundle/raw/master/tangga.dlc
+tangga<url>https://github.com/SyafiraFitraAnnisa/AssetBundle/raw/master/tanggal.dlc
