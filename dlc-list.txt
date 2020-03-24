@@ -1,2 +1,3 @@
 simpel<url>https://github.com/SyafiraFitraAnnisa/AssetBundle/raw/master/simpel.dlc
 tangga<url>file:///D:/Unity/Asset%20Bundle/Assets/AssetBundles/tanggal.dlc
+An-Nasr<url>https://github.com/SyafiraFitraAnnisa/QAR/raw/master/an-nasr.dlc
