@@ -1,5 +1,3 @@
-simpel<url>https://github.com/SyafiraFitraAnnisa/AssetBundle/raw/master/simpel.dlc
-tangga<url>file:///D:/Unity/Asset%20Bundle/Assets/AssetBundles/tanggal.dlc
 An-Naba'<url>https://github.com/SyafiraFitraAnnisa/QAR/raw/master/an-naba.dlc
 An-Nazi'at<url>https://github.com/SyafiraFitraAnnisa/QAR/raw/master/an-naziat.dlc
 'Abasa<url>https://github.com/SyafiraFitraAnnisa/QAR/raw/master/abasa.dlc
