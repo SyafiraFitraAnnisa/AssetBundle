@@ -1,2 +1,2 @@
 simpel<url>https://github.com/SyafiraFitraAnnisa/AssetBundle/raw/master/simpel.dlc
-tangga<url>file:///D:/Unity/Asset%20Bundle/Assets/AssetBundles/tangga.dlc
+tangga<url>file:///D:/Unity/Asset%20Bundle/Assets/AssetBundles/tangga'.dlc
